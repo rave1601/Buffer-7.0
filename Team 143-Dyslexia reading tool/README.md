@@ -38,4 +38,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 3. Upload a document (PDF) or interact with the text.
 4. View the refined text in a dyslexia-friendly format and use the text-to-speech controls as needed.
 
+## Contributing
 
+Contributions are welcome! If you have suggestions or want to improve the tool, please fork the repository and create a pull request.
